@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rajmakwana1
-- 👀 I’m interested in Iot, electronic, artificial intelligence, automation
-- 🌱 I’m currently learning electronic & computer science engeenering. 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Iot, cloud computing, electronic, artificial intelligence, automation.
+- 💞️ I’m looking to collaborate on cloud computing project.
 - 📫 How to reach me? 
      By, gmail-rajmakwana6822@gmail.com
       
